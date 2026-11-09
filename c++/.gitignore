@@ -1,0 +1,7 @@
+# Ignore Windows executable files
+*.exe
+
+# Optional: Ignore other common C build artifacts
+*.o
+*.obj
+*.out
