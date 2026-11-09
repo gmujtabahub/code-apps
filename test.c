@@ -14,7 +14,6 @@ int main()
 
     do
     {
-
         printf("%d x %d = %d\n", table, i, table * i);
         a++;
         i++;
