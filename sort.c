@@ -7,7 +7,6 @@ int main()
 {
     system("cls");
 
-    
     int arr[SIZE] = {1, 4, 2, 0, 3, 5};
 
     for (int i = 0; i < SIZE; i++)
